@@ -1,5 +1,5 @@
 ## Changing The Background
-# Сайт-портфолио.
+# Учебный проект.
 ![EliasPortfolio-Website](https://github.com/IlyaLogonow/ChangingTheBackground-ProjectsJS/blob/main/Changing%20The%20Background.png)
 
 ## Инструменты 
